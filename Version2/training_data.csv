@@ -1,0 +1,94 @@
+patterns,tags
+hi,greeting
+hello,greeting
+hi there,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+hlo,greeting
+hii,greeting
+hey,greeting
+howdy,greeting
+whatsup,greeting
+namaste,greeting
+yo,greeting
+who is Virat Kohli,wikipedia
+tell me Sachin Tendulkar, wikipedia
+who is this person,wikipedia
+wikipedia for Joe Biden,wikipedia
+wikipedia Albert Einstein,wikipedia
+something about Elon Musk, wikipedia
+who is Steve Jobs, wikipedia
+information about Tom Cruise,wikipedia
+information on Bill Gates,wikipedia
+info on ms dhoni,wikipedia
+open youtube,youtube
+youtube, youtube
+watch youtube,youtube
+on youtube,youtube
+watch youtube,youtube
+youtube now, youtube
+open google,google
+please open google,google
+google,google
+google now,google
+google it,google
+open google for me,google
+search google, google
+googling,google
+google right now,google
+send email,gmail
+email,gmail
+open gemail,gmail
+open gmail,gmail
+write email,gmail
+get mail,gmail
+mail now,gmail
+send an email now, gmail
+gmail now,gmail
+opening gmail,gmail
+sending email,gmail
+weather like,weather
+weather,weather
+weather updates,weather
+update weather,weather
+todays weather,weather
+weather outside,weather
+bad weather,weather
+climate,weather
+its cold,weather
+its warm,weather
+weather forcast,weather
+climate details,weather
+temperature,weather
+please tell time,time
+tell time,time
+time now,time
+time,time
+current time,time
+time right now,time
+clock time,time
+current time,time
+I have a question,question
+I have a doubt,question
+questions,question
+Can you answer this question,question
+Answer my doubt,question
+answer my question,question
+I have query,question
+Calculate this,question
+1+1,question
+2 into 3,question
+50 divided by 2,question
+help with calculations,question
+can you do math,question
+I have a computation,question
+solve,question
+do calculation,question
+capital of USA,question
+prime minister of India,question
+president of America,question
+
+
+
+
